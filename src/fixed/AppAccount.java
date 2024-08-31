@@ -1,10 +1,22 @@
 package fixed;
-
+import java.io.IOException;
+import java.util.logging.*;
+/**
+ * Anwendungsklasse
+ * Anwendungsklasse für das Berechnen von Geldbetr&auml;gen.
+ * @author Kathrin Blabusch
+ */
 public class AppAccount {
-
+  /*
+   * Hauptprogramm, das einige Instanzen erzeugt.
+   * Instanziieren von Objekten
+   * Die Geldbetr&auml;ge  werden auf der Konsole ausgegeben.
+   *
+   * @param args Argumente für die Anwendung
+   * */
   private static Account lengths2;
 
-  public static void main(String[] args) {
+  public static void main(String[] args) throws IOException {
 
     System.out.println("Messwerte für Multiply");
 

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-08-30T16:13:48</date>
+  <millis>1725027228590</millis>
+  <sequence>0</sequence>
+  <logger>fixed.Account</logger>
+  <level>INFO</level>
+  <class>fixed.Account</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>&gt;&gt; Account(100,0)</message>
+</record>
+<record>
+  <date>2024-08-30T16:13:48</date>
+  <millis>1725027228612</millis>
+  <sequence>1</sequence>
+  <logger>fixed.Account</logger>
+  <level>CONFIG</level>
+  <class>fixed.Account</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>** Geldbetrag mit Verschiebung 0</message>
+</record>
+<record>
+  <date>2024-08-30T16:13:48</date>
+  <millis>1725027228612</millis>
+  <sequence>2</sequence>
+  <logger>fixed.Account</logger>
+  <level>INFO</level>
+  <class>fixed.Account</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>&lt;&lt; Account(100,0)</message>
+</record>
+</log>
