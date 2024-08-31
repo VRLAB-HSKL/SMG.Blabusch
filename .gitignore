@@ -98,3 +98,28 @@ replay_pid*
 # End of https://www.toptal.com/developers/gitignore/api/eclipse,java
 
 **/.DS_Store
+
+# Backup-Files unserer ASCII-Editoren
+*~
+*.bak
+
+# class-files
+**/*.class
+
+# Verzeichnisse mit Binaries
+[Bb]in/
+
+# Log-Ausgaben
+**/logs/
+
+# HTML-Verzeichnis mit Dokumentation
+[Hh]tml/
+[Dd]oc
+
+# Eclipse Projektinfos
+.classpath
+.project
+.settings/
+
+# Maven build-Verzeichnis
+target/
