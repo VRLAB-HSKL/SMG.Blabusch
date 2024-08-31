@@ -1,5 +1,11 @@
 package fixed;
-
+/**
+ * Berechnung von Geldbetr&auml;gen
+ * Multiplikation
+ * @author Kathrin Blabusch
+ * @see FixedPointNumber
+ * @version 1.0
+ */
 public class Account extends FixedPointNumber{
 
   public Account(){
