@@ -1,4 +1,4 @@
-package fixed;
+package de.hskl.ita;
 /**
  * Berechnung von Geldbetr&auml;gen
  * Multiplikation
@@ -11,7 +11,9 @@ package fixed;
  */
 
 import java.io.IOException;
-import java.util.logging.*;
+import java.util.logging.ConsoleHandler;
+import java.util.logging.Handler;
+import java.util.logging.Logger;
 
 public class Account extends FixedPointNumber{
 

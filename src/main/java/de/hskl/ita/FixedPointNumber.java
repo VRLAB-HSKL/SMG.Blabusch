@@ -1,4 +1,4 @@
-package fixed;
+package de.hskl.ita;
 /**
  * Berechnung von K&ouml;rpergr&ouml;ßen
  * Addition
@@ -6,7 +6,6 @@ package fixed;
  * @author Kathrin Blabusch
  * @version 1.0
  */
-import java.util.logging.ConsoleHandler;
 import java.util.logging.Handler;
 import java.util.logging.Level;
 import java.util.logging.Logger;

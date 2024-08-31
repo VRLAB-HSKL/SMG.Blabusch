@@ -1,4 +1,4 @@
-package fixed;
+package de.hskl.ita;
 
 import java.io.IOException;
 import java.util.logging.*;
