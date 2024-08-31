@@ -9,3 +9,9 @@ Der Branch javadoc enthält die javadoc-Version.
 
 Der Tag release2 enthält die Quellen mit Javadoc-Kommentaren.
 
+Die Schritte 8 und 9 der Prüfungsleistung wurden implementiert.
+
+Der Branch jul enthält die Java-Logging-API-Version.
+
+Der Tag release3 enthält die Quellen mit Logging-Code und die ASCII-Dateien "Logs.txt" und "Logs2.txt".
+
